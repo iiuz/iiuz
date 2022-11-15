@@ -3,7 +3,7 @@
 <p align="center">
   <br>
   <samp>
-    I'm <b><a rel="nofollow noopener noreferrer" target="_blank">Kriis</a></b>.
+    I'm <b><a rel="nofollow noopener noreferrer" target="_blank">hexua</a></b>.
     <br>python dev<br>
 
 </samp>
