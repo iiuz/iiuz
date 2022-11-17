@@ -22,4 +22,3 @@
 </p>
 
 <!--<a href="link" style="text-align: center">
-<!--<img src="https://discord.c99.nl/widget/theme-4/1017583411864547358.png"
